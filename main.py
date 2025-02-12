@@ -9,7 +9,7 @@ from pyshorteners import Shortener
 import hashlib
 
 # API Key của bạn từ Telegram
-API_KEY = '7097166353:AAEmGmwbT6LnHIm9vIIppTpbAYzINnAaYSg'
+API_KEY = '***************************'
 DOWNLOAD_FOLDER = './Downloads'
 LOG_FILE = 'user_activity_log.txt'
 
@@ -62,7 +62,7 @@ async def analyze_tiktok(update: Update, context: CallbackContext):
         api_url = "https://tiktok-scraper7.p.rapidapi.com/"
         querystring = {"url": video_url}
         headers = {
-            "X-RapidAPI-Key": "dc65a367e9mshbf934df4bee4484p18e20bjsn77d89d04446d",
+            "X-RapidAPI-Key": "********************************",
             "X-RapidAPI-Host": "tiktok-scraper7.p.rapidapi.com"
         }
 

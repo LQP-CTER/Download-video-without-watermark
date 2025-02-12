@@ -1,4 +1,4 @@
-# Rita - Telegram Bot for TikTok Analysis and Download
+# Rita - Telegram Bot for Analysis and Download
 
 ## 📌 Overview
 Rita is a Telegram bot that allows users to analyze and download TikTok videos and images without watermarks. It fetches metadata, including view count, likes, comments, and shares, while also providing high-quality download links.

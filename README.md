@@ -17,7 +17,7 @@ Rita is a Telegram bot that allows users to analyze and download videos and imag
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo-name/rita-telegram-bot.git
+   git clone https://github.com/lqp-cter/rita-telegram-bot.git
    cd rita-telegram-bot
    ```
 2. Install required dependencies:
